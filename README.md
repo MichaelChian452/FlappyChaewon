@@ -5,6 +5,8 @@ FLAPPY CHAEWON is a singleplayer game that draws inspiration from the timeless c
 
 The game is written in C that runs on a GameBoy Advance Emulator with GameBoy Advance controls.
 
+It was created for my CS2110 Computer Organization & Principles class during the Spring 2023 semester.
+
 ## Controls
 GameBoy | Keyboard | | In-Game Usage\
 Start | Enter | Start the Game\
